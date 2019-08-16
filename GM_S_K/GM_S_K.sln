@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GM_S_K", "GM_S_K\GM_S_K.vcxproj", "{1E25DAE8-A613-4494-8667-4F5777C1FC55}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GM_S_K_5B", "GM_S_K_5B\GM_S_K_5B.vcxproj", "{DACEA613-B857-4C1B-8851-04CA91329EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E25DAE8-A613-4494-8667-4F5777C1FC55}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1E25DAE8-A613-4494-8667-4F5777C1FC55}.Debug|Win32.Build.0 = Debug|Win32
+		{1E25DAE8-A613-4494-8667-4F5777C1FC55}.Debug|x64.ActiveCfg = Debug|Win32
+		{1E25DAE8-A613-4494-8667-4F5777C1FC55}.Release|Win32.ActiveCfg = Release|Win32
+		{1E25DAE8-A613-4494-8667-4F5777C1FC55}.Release|Win32.Build.0 = Release|Win32
+		{1E25DAE8-A613-4494-8667-4F5777C1FC55}.Release|x64.ActiveCfg = Release|Win32
+		{DACEA613-B857-4C1B-8851-04CA91329EEB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DACEA613-B857-4C1B-8851-04CA91329EEB}.Debug|Win32.Build.0 = Debug|Win32
+		{DACEA613-B857-4C1B-8851-04CA91329EEB}.Debug|x64.ActiveCfg = Debug|x64
+		{DACEA613-B857-4C1B-8851-04CA91329EEB}.Debug|x64.Build.0 = Debug|x64
+		{DACEA613-B857-4C1B-8851-04CA91329EEB}.Release|Win32.ActiveCfg = Release|Win32
+		{DACEA613-B857-4C1B-8851-04CA91329EEB}.Release|Win32.Build.0 = Release|Win32
+		{DACEA613-B857-4C1B-8851-04CA91329EEB}.Release|x64.ActiveCfg = Release|x64
+		{DACEA613-B857-4C1B-8851-04CA91329EEB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal
